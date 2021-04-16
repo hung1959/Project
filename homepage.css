@@ -1,0 +1,34 @@
+.items{
+    padding: 20px 0px 0px 0px;
+    font-weight: bold;
+}
+.btn{
+    padding: 7px 50px 7px 50px;
+    border-radius: 15px;
+    background: rgb(204, 204, 204);
+    border: 0px;
+}
+.btn:hover{
+    background: #000;
+    color: white;
+}
+.infor-input{
+    width: 50%;
+    border-radius: 10px;
+    padding: 7px 50px 7px 50px;
+    border: 0px;
+    margin-top: 15px;
+    background: rgb(236, 236, 236);
+}
+.quantity{
+    border-radius: 5px;
+    border: 1px black;
+    width: 42px;
+}
+/* Add product page */
+#product-img{
+    margin-top: 20px;
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+}
